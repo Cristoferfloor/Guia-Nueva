@@ -10,6 +10,6 @@
   "description": "",
 
   "publishConfig": {
-  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  "@Cristoferfloor:registry": "https://npm.pkg.github.com"
 }
 }
